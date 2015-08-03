@@ -34,5 +34,5 @@ the use of 3rd party extensions for MatLab.
 E.g.: https://github.com/mingot/matlab-websockets
 
 <h1>Screenshots</h1>
-http://i.imgur.com/VFZdCNn.png
+http://i.imgur.com/VFZdCNn.png<br>
 http://i.imgur.com/tlWu8Cc.png
