@@ -32,3 +32,7 @@ Response - response from the system containing platform info
 It is possible to create a MatLab client that would support system’s WebSockets capabilities with 
 the use of 3rd party extensions for MatLab. 
 E.g.: https://github.com/mingot/matlab-websockets
+
+<h1>Screenshots</h1>
+http://i.imgur.com/VFZdCNn.png
+http://i.imgur.com/tlWu8Cc.png
